@@ -1,13 +1,13 @@
 {
   "format": 1,
   "name": "My Modpacks",
-  "updated": "2026-11-23T05:17:56Z",
+  "updated": "2026-11-26T06:50:43Z",
   "launcher": {
-    "build": 3,
-    "key": "e2f1738472eb59b79cc2896fe2820e36653bdbff",
+    "build": 4,
+    "key": "865490d4db0d58e5e4af39898db8372593285033",
     "url": "https://github.com/experiorgg-mods/moddy-packs/releases/download/files/Moddy.zip",
-    "sha1": "3d2c9f0a8188b3b528bea889d9b078fbc23c4fc0",
-    "size": 61951
+    "sha1": "0bbe624ff8143ab1834912dbf34c4d4d975d989d",
+    "size": 62495
   },
   "packs": [
     {
