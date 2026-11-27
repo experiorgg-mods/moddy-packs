@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "My Modpacks",
-  "updated": "2026-11-27T18:29:26Z",
+  "updated": "2026-11-27T20:01:24Z",
   "launcher": {
     "build": 4,
     "key": "865490d4db0d58e5e4af39898db8372593285033",
@@ -14,8 +14,8 @@
       "id": "all-the-mods-11",
       "name": "All The Mods 11 - Experior's Version",
       "description": "",
-      "version": 11,
-      "updated": "2026-11-23T05:15:53Z",
+      "version": 12,
+      "updated": "2026-11-27T20:01:24Z",
       "changelog": "",
       "minecraft": "26.1.2",
       "loader": "neoforge",
@@ -1343,6 +1343,12 @@
           "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/c4uzJQYp/Placebo-26.1.2-10.0.2.jar"
         },
         {
+          "path": "mods/plainpower-1.0.4-neoforge-26.1.2.jar",
+          "sha1": "708146063271715f7dfc7975378430fd162f845a",
+          "size": 255039,
+          "url": "https://github.com/experiorgg-mods/moddy-packs/releases/download/files/708146063271715f7dfc7975378430fd162f845a.jar"
+        },
+        {
           "path": "mods/PlayerAnimationLibMerged-1.2.9-mc.26.1.jar",
           "sha1": "d52b0054b2e22d334fd3af2bab4ced4448365d3a",
           "size": 401515,
@@ -1551,6 +1557,12 @@
           "sha1": "4939c114d2dcb1ccaa5a9fda0c02c13d8d528dff",
           "size": 424108,
           "url": "https://cdn.modrinth.com/data/bi4iCmsw/versions/kt43miwb/shogi-neoforge-26.1.2-26.1.2.12.jar"
+        },
+        {
+          "path": "mods/showdown-0.3.0-neoforge-26.1.2.jar",
+          "sha1": "8c731d2bd34588483cd6103ab0e1c2f84c5bc9fd",
+          "size": 151997,
+          "url": "https://github.com/experiorgg-mods/moddy-packs/releases/download/files/8c731d2bd34588483cd6103ab0e1c2f84c5bc9fd.jar"
         },
         {
           "path": "mods/silent-gear-26.1.2-neoforge-4.2.3.jar",
