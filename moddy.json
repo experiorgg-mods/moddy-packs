@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "My Modpacks",
-  "updated": "2026-11-27T08:10:46Z",
+  "updated": "2026-11-27T08:11:04Z",
   "launcher": {
     "build": 4,
     "key": "865490d4db0d58e5e4af39898db8372593285033",
@@ -31202,6 +31202,38 @@
           }
         ]
       }
+    },
+    {
+      "id": "plain-power-test",
+      "name": "Plain Power Test",
+      "description": "Test pack for the Plain Power mod (with Jade and JEI).",
+      "version": 1,
+      "updated": "2026-11-27T08:11:04Z",
+      "changelog": "First test of Plain Power 1.0.0.",
+      "minecraft": "26.1.2",
+      "loader": "neoforge",
+      "loaderVersion": "26.1.2.129",
+      "memoryMb": 4096,
+      "files": [
+        {
+          "path": "mods/Jade-mc26.1-NeoForge-26.1.12.jar",
+          "sha1": "dd6ed0c46f3a7291046c4582a5a67d1715196427",
+          "size": 1028720,
+          "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/Pr1h4azo/Jade-mc26.1-NeoForge-26.1.12.jar"
+        },
+        {
+          "path": "mods/jei-26.1.2-neoforge-29.53.0.115.jar",
+          "sha1": "a065a418f89d33dfd6d7644a766d13619fc59658",
+          "size": 4796265,
+          "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/60HrmNPh/jei-26.1.2-neoforge-29.53.0.115.jar"
+        },
+        {
+          "path": "mods/plainpower-1.0.0-neoforge-26.1.2.jar",
+          "sha1": "9dc8131f2e0bb035dd7a9003be5b1d943fd45163",
+          "size": 230630,
+          "url": "https://github.com/experiorgg-mods/moddy-packs/releases/download/files/9dc8131f2e0bb035dd7a9003be5b1d943fd45163.jar"
+        }
+      ]
     }
   ]
 }
