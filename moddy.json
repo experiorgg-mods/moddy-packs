@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "My Modpacks",
-  "updated": "2026-11-27T21:07:28Z",
+  "updated": "2026-11-27T21:09:02Z",
   "launcher": {
     "build": 4,
     "key": "865490d4db0d58e5e4af39898db8372593285033",
@@ -14,8 +14,8 @@
       "id": "all-the-mods-11",
       "name": "All The Mods 11 - Experior's Version",
       "description": "",
-      "version": 13,
-      "updated": "2026-11-27T21:07:28Z",
+      "version": 14,
+      "updated": "2026-11-27T21:09:02Z",
       "changelog": "",
       "minecraft": "26.1.2",
       "loader": "neoforge",
@@ -1337,10 +1337,10 @@
           "url": "https://cdn.modrinth.com/data/tCkE8p2N/versions/c4uzJQYp/Placebo-26.1.2-10.0.2.jar"
         },
         {
-          "path": "mods/plainpower-1.0.4-neoforge-26.1.2.jar",
-          "sha1": "708146063271715f7dfc7975378430fd162f845a",
-          "size": 255039,
-          "url": "https://github.com/experiorgg-mods/moddy-packs/releases/download/files/708146063271715f7dfc7975378430fd162f845a.jar"
+          "path": "mods/plainpower-1.0.5-neoforge-26.1.2.jar",
+          "sha1": "76320a2bc9c0a448975ecadaa6ec6429be95f034",
+          "size": 255612,
+          "url": "https://github.com/experiorgg-mods/moddy-packs/releases/download/files/76320a2bc9c0a448975ecadaa6ec6429be95f034.jar"
         },
         {
           "path": "mods/PlayerAnimationLibMerged-1.2.9-mc.26.1.jar",
