@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "My Modpacks",
-  "updated": "2026-11-27T20:01:24Z",
+  "updated": "2026-11-27T21:07:28Z",
   "launcher": {
     "build": 4,
     "key": "865490d4db0d58e5e4af39898db8372593285033",
@@ -14,8 +14,8 @@
       "id": "all-the-mods-11",
       "name": "All The Mods 11 - Experior's Version",
       "description": "",
-      "version": 12,
-      "updated": "2026-11-27T20:01:24Z",
+      "version": 13,
+      "updated": "2026-11-27T21:07:28Z",
       "changelog": "",
       "minecraft": "26.1.2",
       "loader": "neoforge",
@@ -273,12 +273,6 @@
           "sha1": "801cdb36f132149de63a7891b0df403c3517f9d3",
           "size": 67122099,
           "url": "https://cdn.modrinth.com/data/GOQwOWlB/versions/zUVU9IFZ/chisel-26.1.2.21.jar"
-        },
-        {
-          "path": "mods/classicpipes-neoforge-26.1.2-1.1.7.jar",
-          "sha1": "05ee7525a94206e7892b3c1da44e8b1d742c11ed",
-          "size": 762363,
-          "url": "https://cdn.modrinth.com/data/xX5VOqpH/versions/lnSYyg39/classicpipes-neoforge-26.1.2-1.1.7.jar"
         },
         {
           "path": "mods/cleanswing-1.9-26.1.jar",
@@ -31219,9 +31213,9 @@
       "id": "plain-power-test",
       "name": "Plain Power Test",
       "description": "Test pack for the Plain Power mod (with Jade and JEI).",
-      "version": 4,
-      "updated": "2026-11-27T18:29:26Z",
-      "changelog": "First test of Plain Power 1.0.0.",
+      "version": 5,
+      "updated": "2026-11-27T21:07:28Z",
+      "changelog": "Plain Power 1.0.5: all blocks stack to 16, lava generators keep their lava when broken, generators no longer flicker between fuel items, simpler cleaner textures.",
       "minecraft": "26.1.2",
       "loader": "neoforge",
       "loaderVersion": "26.1.2.129",
@@ -31240,10 +31234,10 @@
           "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/60HrmNPh/jei-26.1.2-neoforge-29.53.0.115.jar"
         },
         {
-          "path": "mods/plainpower-1.0.4-neoforge-26.1.2.jar",
-          "sha1": "708146063271715f7dfc7975378430fd162f845a",
-          "size": 255039,
-          "url": "https://github.com/experiorgg-mods/moddy-packs/releases/download/files/708146063271715f7dfc7975378430fd162f845a.jar"
+          "path": "mods/plainpower-1.0.5-neoforge-26.1.2.jar",
+          "sha1": "76320a2bc9c0a448975ecadaa6ec6429be95f034",
+          "size": 255612,
+          "url": "https://github.com/experiorgg-mods/moddy-packs/releases/download/files/76320a2bc9c0a448975ecadaa6ec6429be95f034.jar"
         }
       ]
     }
