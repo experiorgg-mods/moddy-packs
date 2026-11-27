@@ -1,7 +1,7 @@
 {
   "format": 1,
   "name": "My Modpacks",
-  "updated": "2026-11-27T08:11:04Z",
+  "updated": "2026-11-27T08:25:57Z",
   "launcher": {
     "build": 4,
     "key": "865490d4db0d58e5e4af39898db8372593285033",
@@ -31207,8 +31207,8 @@
       "id": "plain-power-test",
       "name": "Plain Power Test",
       "description": "Test pack for the Plain Power mod (with Jade and JEI).",
-      "version": 1,
-      "updated": "2026-11-27T08:11:04Z",
+      "version": 2,
+      "updated": "2026-11-27T08:25:57Z",
       "changelog": "First test of Plain Power 1.0.0.",
       "minecraft": "26.1.2",
       "loader": "neoforge",
@@ -31228,10 +31228,10 @@
           "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/60HrmNPh/jei-26.1.2-neoforge-29.53.0.115.jar"
         },
         {
-          "path": "mods/plainpower-1.0.0-neoforge-26.1.2.jar",
-          "sha1": "9dc8131f2e0bb035dd7a9003be5b1d943fd45163",
-          "size": 230630,
-          "url": "https://github.com/experiorgg-mods/moddy-packs/releases/download/files/9dc8131f2e0bb035dd7a9003be5b1d943fd45163.jar"
+          "path": "mods/plainpower-1.0.2-neoforge-26.1.2.jar",
+          "sha1": "7ee1d8e747de27f1a390ada25549be5f5d348d30",
+          "size": 237446,
+          "url": "https://github.com/experiorgg-mods/moddy-packs/releases/download/files/7ee1d8e747de27f1a390ada25549be5f5d348d30.jar"
         }
       ]
     }
